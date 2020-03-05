@@ -1,3 +1,5 @@
 
 *.pkl
 *.csv
+*.obj
+*.xlsx
